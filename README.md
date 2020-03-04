@@ -1,9 +1,9 @@
 # python-string-handling
        This program can be used for string handling instead of upper(),lower(),capitalize() and title() methods. It does the same thing without using this methods.
-              I selected to make this program to understand the Mathematics behind string functions.
 
-      This program make changes with using Unicode values of the characters in given string.
-      Basically, I used Unicode values of 'a' , 'z' , 'A' and 'Z' to convert an uppercase character to lowercase character  or to convert a lowercase character to uppercase character.
+   I selected to make this program to understand the Mathematics behind string functions.
+This program make changes with using Unicode values of the characters in given string.
+   Basically, I used Unicode values of 'a' , 'z' , 'A' and 'Z' to convert an uppercase character to lowercase character  or to convert a lowercase character to uppercase character.
 These are 4 Unicode values I used:
 The symbol for the letter A is represented by character number 65.
 The symbol for the letter Z is represented by character number 90.
